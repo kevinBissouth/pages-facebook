@@ -1,2 +1,2 @@
 # pages-facebook
-I build Facebook's login and singup pages using Tailwindcss for the frontend
+la page d'inscription et celle de connexion de facebook
